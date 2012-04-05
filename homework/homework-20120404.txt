@@ -1,0 +1,12 @@
+Try these two exercises:
+
+* read all words from the word list in words.txt and write
+  all words longer than 10 characters to another file called
+  longwords.txt
+
+* create a web server that does one of the following things:
+  * show a random word
+  * show a random word starting with a letter entered by the user
+  * show a random word at least x characters long, where x is
+    entered by the user
+
