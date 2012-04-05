@@ -1,0 +1,8 @@
+Topics
+
+* import
+* random.choice
+* 'abc'.strip()
+* open()
+* close()
+* .readlines()
