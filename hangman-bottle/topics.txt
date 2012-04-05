@@ -1,0 +1,11 @@
+Topics:
+
+* if/else/elif
+* x if c else y
+* +=
+* global
+* dictionaries: syntax, get()
+* functions: parameters, defaults
+* decorators (concept)
+* import
+* from x import y
